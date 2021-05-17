@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "isbn": "123-456-123",
+      "title": "All or Nothing",
+      "author": "Brian Doe",
+      "copyright_year": "2019",
+      "publisher": "Phoenix",
+      "price": "299",
+      "type": "hardbound",
+      "id": "wBCqjmK"
+    },
+    {
+      "isbn": "123-456-122",
+      "title": "Lightning Thiefs",
+      "author": "Ricky",
+      "copyright_year": "2000",
+      "publisher": "Phoenix",
+      "price": "899",
+      "type": "hardbound",
+      "id": "V40w4ZE"
+    },
+    {
+      "isbn": "123-1223-141",
+      "title": "Harry Potter Sorcery's Storm",
+      "author": "JK Rowling",
+      "copyright_year": "2001",
+      "publisher": "Phoenix",
+      "price": "1200",
+      "type": "softbound",
+      "id": "0wg_G5X"
+    }
+  ]
+}
